@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+  <!-- ******************************************************************** -->
+  <TV>
+    <Channel>
+      <Item Name="BX1">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>BX1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Canvas">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>Canvas.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Een">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>Een.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Euronews">
+        <Provider>TNT (BE)</Provider>
+      </Item>
+      <File>Euronews.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ketnet">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>Ketnet.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="La Deux">
+        <Provider>TNT (BE)</Provider>
+      </Item>
+      <File>La Deux.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="La Trois">
+        <Provider>TNT (BE)</Provider>
+      </Item>
+      <File>La Trois.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="La Une">
+        <Provider>TNT (BE)</Provider>
+      </Item>
+      <File>La Une.png</File>
+    </Channel>
+  </TV>
+  <!-- ******************************************************************** -->
+  <Radio>
+    <Channel>
+      <Item Name="BRF">
+        <Provider>TNT (BE)</Provider>
+      </Item>
+      <Item Name="BRF 1">
+        <Provider>Full Name (FI)</Provider>
+      </Item>
+      <File>BRF 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Classic 21">
+        <Provider>TNT (BE)</Provider>
+      </Item>
+      <File>Classic 21.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Klara">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>Klara.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Klara">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>Klara.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Klara Continuo">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>Klara Continuo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="La Premiere">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <Item Name="La1ère">
+        <Provider>TNT (BE)</Provider>
+      </Item>
+      <File>La Premiere.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MNM">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>MNM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MNM Hits">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>MNM Hits.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Musiq3">
+        <Provider>TNT (BE)</Provider>
+      </Item>
+      <File>Musiq3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pure">
+        <Provider>TNT (BE)</Provider>
+      </Item>
+      <File>Pure.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio 1">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>Radio 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio 2">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>Radio 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sporza">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>Sporza.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Studio Brussel">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>Studio Brussel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VivaCite">
+        <Provider>TNT (BE)</Provider>
+      </Item>
+      <File>VivaCite.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VRT Nws">
+        <Provider>Full Name (BE)</Provider>
+      </Item>
+      <File>VRT Nws.png</File>
+    </Channel>
+  </Radio>
+  <!-- ******************************************************************** -->
+</Mappings>
