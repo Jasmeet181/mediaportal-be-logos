@@ -75,12 +75,6 @@
       <File>Klara.png</File>
     </Channel>
     <Channel>
-      <Item Name="Klara">
-        <Provider>Full Name (BE)</Provider>
-      </Item>
-      <File>Klara.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Klara Continuo">
         <Provider>Full Name (BE)</Provider>
       </Item>
