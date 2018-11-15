@@ -9,12 +9,12 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g id="g32" class="canvas logoSvgStyle" fill-rule="evenodd">
+ <g id="g32" class="canvas logoSvgStyle" fill="#49648c" fill-rule="evenodd">
   <g id="g12" class="bottom">
-   <path id="path10" class="bottom__path" d="m0 22.9h58v8.8h-58z"/>
+   <path id="path10" class="bottom__path" d="m0 22.9h58v8.8h-58z" fill="#49648c"/>
   </g>
   <g id="g16" class="top">
-   <path id="path14" class="top__path" d="m0 0h57.977v8.8h-57.977z"/>
+   <path id="path14" class="top__path" d="m0 0h57.977v8.8h-57.977z" fill="#49648c"/>
   </g>
   <g id="g30" class="letters">
    <path id="path18" d="m4.8 20.7c2 0 3.2-0.9 4.1-2.1l-2.2-1.6c-0.5 0.6-1 0.9-1.7 0.9-1.1 0-1.9-0.9-1.9-2v-0.1c0-1.1 0.8-2 1.8-2 0.8 0 1.3 0.3 1.7 1l2.2-1.7c-0.8-1.2-2-2-3.9-2-2.9 0-4.9 2.2-4.9 4.8s2 4.8 4.8 4.8z"/>
