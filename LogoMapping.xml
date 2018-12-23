@@ -633,13 +633,13 @@
 			<File>Eleven Sports 3 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Elle Girl">
+			<Item Name="Elle Girl TV">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
 			<Item Name="Elle Girl HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Elle Girl.png</File>
+			<File>Elle Girl TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Equidia">
@@ -823,12 +823,6 @@
 			<File>Investigation Discovery.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Kadet">
-				<Provider>Full Name (BE)</Provider>
-			</Item>
-			<File>Kadet.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Kanaal Z">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
@@ -905,10 +899,13 @@
 			<File>LCI.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M6 Boutique">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
 			<Item Name="M6 Boutique &amp; Co">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>M6 Boutique and Co.png</File>
+			<File>M6 Boutique.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="M6 Music">
@@ -1862,6 +1859,12 @@
 			<File>Vier.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Vier HD">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
+			<File>Vier HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Vijf">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
@@ -1988,10 +1991,22 @@
 			<File>VTM HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="VTMKzoom">
+			<Item Name="VTM Kids">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
-			<File>VTMKzoom.png</File>
+			<File>VTM Kids.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VTM Kids Jr">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
+			<File>VTM Kids Jr.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VTM Kids Kanaal Z">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
+			<File>VTM Kids Kanaal Z.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Warner TV">
