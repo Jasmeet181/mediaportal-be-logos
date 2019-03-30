@@ -1487,10 +1487,10 @@
 			<File>RTV Oost.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sat1">
+			<Item Name="Sat.1">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
-			<File>Sat1.png</File>
+			<File>Sat.1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SchlagerTV">
@@ -1533,12 +1533,6 @@
 				<Provider>Voo</Provider>
 			</Item>
 			<File>Stars XXX TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Stingray Brava">
-				<Provider>Full Name (BE)</Provider>
-			</Item>
-			<File>Stingray Brava.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Stingray Classica">
