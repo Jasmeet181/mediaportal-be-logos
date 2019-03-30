@@ -2215,10 +2215,10 @@
 			<File>Musiq3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nostalgie">
+			<Item Name="Nostalgie Vlaanderen">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
-			<File>Nostalgie.png</File>
+			<File>Nostalgie Vlaanderen.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NPO 3FM">
