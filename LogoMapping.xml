@@ -72,12 +72,6 @@
 			<File>Al Jazeera English.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AMC">
-				<Provider>Full Name (BE)</Provider>
-			</Item>
-			<File>AMC.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Animal Planet">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
