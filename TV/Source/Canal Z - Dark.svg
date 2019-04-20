@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 2247.8 585.97" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style>.cls-1{fill:url(#radial-gradient);}.cls-2{fill:#0b2043;}</style>
-  <radialGradient id="radial-gradient" cx="2000.1" cy="560.21" r="405.68" gradientTransform="translate(3.06)" gradientUnits="userSpaceOnUse">
+  <style>.cls-1{fill:url(#a);}.cls-2{fill:#0b2043;}</style>
+  <radialGradient id="a" cx="2000.1" cy="560.21" r="405.68" gradientTransform="translate(3.06)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#097faa" offset="0"/>
    <stop stop-color="#114b71" offset=".66"/>
    <stop stop-color="#162f53" offset="1"/>
   </radialGradient>
  </defs>
- <title>Canal Z</title>
- <g id="Layer_2" data-name="Layer 2">
-  <g id="Layer_5" data-name="Layer 5">
+ <g id="b" data-name="Layer 2">
+  <g id="c" data-name="Layer 5">
    <path class="cls-1" d="M1952,489.48,2134.7,0H1662.83V89.23l142.9-.06c22.86.07,35.39,16.47,28,36.63L1664.13,586h583.66V525.91l-267.5,0C1957.44,526,1944.77,509.7,1952,489.48Z"/>
    <path class="cls-2" d="m1424.8 486.62v-393.38l37.48 0.51v392.87c-1.16 0-36.43 1.05-37.48 0z"/>
    <path class="cls-2" d="M519.11,307.67q0-44.55-23.8-69.37t-69.88-24.81q-35.46,0-62.29,22.27L377.31,256q18.74-13.15,45.08-13.17,58.74,0,58.74,61.79v9.62H424.41q-93.18,0-93.19,92.68,0,19.24,6.09,34.68a73.56,73.56,0,0,0,43.55,43.31A96.08,96.08,0,0,0,415.8,491q56.22,0,73.94-39.5c-.74,2-.65,31.3-.74,31.23.09.09,29.77.17,29.87.15Zm-38,95.72q0,28.88-15.63,44.31t-42.85,15.45q-52.42,0-52.42-60.26,0-31.92,13.1-46.34t44.88-14.44h52.92Z"/>

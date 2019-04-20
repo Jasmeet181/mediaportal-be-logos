@@ -1,29 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Calque_1" width="160.07" height="32.69" data-name="Calque 1" version="1.1" viewBox="0 0 160.07 32.69" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
- <metadata id="metadata40">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs21">
-  <linearGradient id="linearGradient914" x1="14.4" x2="35.91" y1="32.689" gradientUnits="userSpaceOnUse">
-   <stop id="stop908" stop-color="#fce82f" offset="0"/>
-   <stop id="stop918" stop-color="#fec60d" offset=".19618"/>
-   <stop id="stop916" stop-color="#faa930" offset=".44171"/>
-   <stop id="stop910" stop-color="#f04835" offset="1"/>
+<svg id="b" data-name="Calque 1" version="1.1" viewBox="0 0 160.07 32.69" xmlns="http://www.w3.org/2000/svg">
+ <defs id="c">
+  <linearGradient id="a" x1="14.4" x2="35.91" y1="32.689" gradientUnits="userSpaceOnUse">
+   <stop id="d" stop-color="#fce82f" offset="0"/>
+   <stop id="e" stop-color="#fec60d" offset=".19618"/>
+   <stop id="f" stop-color="#faa930" offset=".44171"/>
+   <stop id="g" stop-color="#f04835" offset="1"/>
   </linearGradient>
  </defs>
- <polygon id="polygon27" class="cls-2" transform="translate(.070312 .00030515)" points="152.93 32.68 160 32.68 145.54 0.02 138.48 0.02" fill="#fff"/>
- <polygon id="polygon29" class="cls-2" transform="translate(.070312 .00030515)" points="139.28 14.42 132.21 14.42 124.02 32.68 131.09 32.68" fill="#fff"/>
- <polygon id="polygon31" class="cls-2" transform="translate(.070312 .00030515)" points="58.63 13.85 48.31 13.84 48.31 6.41 62.11 6.42 64.98 0.03 41.91 0 41.91 32.66 65.01 32.68 64.99 26.3 48.31 26.28 48.31 20.23 55.76 20.23" fill="#fff"/>
- <polygon id="polygon33" class="cls-2" transform="translate(.070312 .00030515)" points="116.8 32.68 116.74 0.13 110.28 0.13 110.34 32.68" fill="#fff"/>
- <path id="path35" class="cls-2" d="m86.83 3.0515e-4h-10.82l-2.87 6.42h13.61a9.87 9.87 0 1 1 0 19.74h-7v-12.31h-6.61v18.83h13.69a16.42 16.42 0 0 0 16.51-16.32 16.41 16.41 0 0 0-16.51-16.36z" fill="#fff"/>
- <g id="g906" transform="translate(.070312 .00030515)" fill="url(#linearGradient914)">
-  <path id="path25" d="m-0.070312 0 14.471 32.689h7.0703l-14.471-32.689z"/>
-  <path id="path25-1" class="cls-1" d="m28.85 0-8.2 18.26h7.07l8.19-18.26z"/>
+ <polygon id="h" class="cls-2" transform="translate(.070312 .00030515)" points="152.93 32.68 160 32.68 145.54 0.02 138.48 0.02" fill="#fff"/>
+ <polygon id="i" class="cls-2" transform="translate(.070312 .00030515)" points="139.28 14.42 132.21 14.42 124.02 32.68 131.09 32.68" fill="#fff"/>
+ <polygon id="j" class="cls-2" transform="translate(.070312 .00030515)" points="58.63 13.85 48.31 13.84 48.31 6.41 62.11 6.42 64.98 0.03 41.91 0 41.91 32.66 65.01 32.68 64.99 26.3 48.31 26.28 48.31 20.23 55.76 20.23" fill="#fff"/>
+ <polygon id="k" class="cls-2" transform="translate(.070312 .00030515)" points="116.8 32.68 116.74 0.13 110.28 0.13 110.34 32.68" fill="#fff"/>
+ <path id="l" class="cls-2" d="m86.83 3.0515e-4h-10.82l-2.87 6.42h13.61a9.87 9.87 0 1 1 0 19.74h-7v-12.31h-6.61v18.83h13.69a16.42 16.42 0 0 0 16.51-16.32 16.41 16.41 0 0 0-16.51-16.36z" fill="#fff"/>
+ <g id="m" transform="translate(.070312 .00030515)" fill="url(#a)">
+  <path id="n" d="m-0.070312 0 14.471 32.689h7.0703l-14.471-32.689z"/>
+  <path id="o" class="cls-1" d="m28.85 0-8.2 18.26h7.07l8.19-18.26z"/>
  </g>
 </svg>
