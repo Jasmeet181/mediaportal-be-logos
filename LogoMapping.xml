@@ -348,10 +348,10 @@
 			<File>CBBC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CBeebies/BBC Four">
+			<Item Name="Cbeebies/BBC Four">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>CBeebies BBC Four.png</File>
+			<File>Cbeebies BBC Four.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CGTN">
@@ -624,7 +624,7 @@
 			<Item Name="Eleven Sports 3 HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Eleven Sports 3 HD.png</File>
+			<File>Eleven Sports 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Elle Girl TV">
@@ -971,7 +971,10 @@
 			<Item Name="Motorvision">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Motorvision.png</File>
+			<Item Name="Motorvision TV">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
+			<File>Motorvision TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MTV">
@@ -1205,16 +1208,22 @@
 			<File>PiwiPlus.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Planète+ A&amp;E">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
 			<Item Name="Planète+ A&amp;E HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>PlanetePlus A and E HD.png</File>
+			<File>PlanetePlus A and E.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Planète+ C&amp;I">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
 			<Item Name="Planète+ C&amp;I HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>PlanetePlus Crime and Investigation HD.png</File>
+			<File>PlanetePlus Crime and Investigation.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Planète+">
@@ -1355,10 +1364,13 @@
 			<File>ProSieben.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="PureVision">***
+			<Item Name="Pure Vision">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
+			<Item Name="PureVision">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>PureVision.png</File>
+			<File>Pure Vision.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Q2">
@@ -1493,10 +1505,13 @@
 			<File>SchlagerTV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Science &amp; Vie TV">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
 			<Item Name="Science &amp; Vie TV HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Science and Vie TV HD.png</File>
+			<File>Science and Vie TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Seasons">
@@ -1589,7 +1604,10 @@
 			<Item Name="Sundance TV HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Sundance TV HD.png</File>
+			<Item Name="SundanceTV HD">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
+			<File>SundanceTV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SWR">
@@ -1619,7 +1637,7 @@
 			<Item Name="TCM Cinéma HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>TCM Cinéma HD.png</File>
+			<File>TCM Cinema HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Télé MB">
@@ -1838,7 +1856,7 @@
 			<Item Name="Viceland HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Ushuaïa TV HD.png</File>
+			<File>Viceland HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Vier">
@@ -1922,37 +1940,28 @@
 			<Item Name="Voosport World 1">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Voosport World 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Voosport World 1 HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Voosport World 1 HD.png</File>
+			<File>VooSport World 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Voosport World 2">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Voosport World 2.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Voosport World 2 HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Voosport World 2 HD.png</File>
+			<File>VooSport World 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Voosport World 3">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Voosport World 3.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Voosport World 3 HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Voosport World 3 HD.png</File>
+			<File>VooSport World 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Vox">
@@ -1961,10 +1970,13 @@
 			<File>Vox.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Voyage">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
 			<Item Name="Voyage HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Voyage HD.png</File>
+			<File>Voyage.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="VTM">
