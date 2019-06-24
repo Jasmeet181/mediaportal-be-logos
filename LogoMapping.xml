@@ -582,6 +582,12 @@
 			<File>E HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eclips TV">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
+			<File>Eclips TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Eén">
 				<Provider>Voo</Provider>
 			</Item>
@@ -683,12 +689,6 @@
 				<Provider>Full Name (BE)</Provider>
 			</Item>
 			<File>Eurosport 2 HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Evenaar">
-				<Provider>Full Name (BE)</Provider>
-			</Item>
-			<File>Evenaar.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Extreme Sports Channel">
