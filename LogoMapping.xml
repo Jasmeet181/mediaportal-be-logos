@@ -2196,12 +2196,6 @@
 			<File>La Premiere.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Mint">
-				<Provider>Voo</Provider>
-			</Item>
-			<File>Mint.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="MNM">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
