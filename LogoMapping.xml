@@ -594,12 +594,6 @@
 			<File>Een.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Eén HD">
-				<Provider>Full Name (BE)</Provider>
-			</Item>
-			<File>Een HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Edge Sport">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
