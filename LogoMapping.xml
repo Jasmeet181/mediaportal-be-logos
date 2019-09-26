@@ -483,16 +483,16 @@
 			<File>CStar.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery Channel">
+			<Item Name="Discovery">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
-			<File>Discovery Channel.png</File>
+			<File>Discovery.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery Channel HD">
+			<Item Name="Discovery HD">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
-			<File>Discovery Channel HD.png</File>
+			<File>Discovery HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Discovery Science">
