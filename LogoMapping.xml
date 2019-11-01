@@ -594,10 +594,10 @@
 			<File>Een.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Edge Sport">
+			<Item Name="EdgeSport">
 				<Provider>Full Name (BE)</Provider>
 			</Item>
-			<File>Edge Sport.png</File>
+			<File>EdgeSport.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Eleven Sports 1">
