@@ -769,10 +769,10 @@
 			<File>Gulli.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Histoire">
+			<Item Name="Histoire TV">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Histoire.png</File>
+			<File>Histoire TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="History">
@@ -1793,6 +1793,12 @@
 			<File>TV Oranje.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV Vlaanderen">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
+			<File>TV Vlaanderen.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TV5 Monde">
 				<Provider>Voo</Provider>
 			</Item>
@@ -1820,13 +1826,10 @@
 			<Item Name="Ushuaïa TV">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Ushuaia TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Ushuaïa TV HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Ushuaia TV HD.png</File>
+			<File>Ushuaia TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Vedia">
@@ -2207,6 +2210,12 @@
 				<Provider>Voo</Provider>
 			</Item>
 			<File>Musiq3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nostalgie Belgique">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
+			<File>Nostalgie Belgique.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nostalgie Vlaanderen">
