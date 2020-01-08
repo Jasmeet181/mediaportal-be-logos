@@ -739,6 +739,7 @@
 			<File>France 3.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 09/08/2020 -->
 			<Item Name="France 4">
 				<Provider>Voo</Provider>
 			</Item>
@@ -751,6 +752,7 @@
 			<File>France 5.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 09/08/2020 -->
 			<Item Name="France Ô">
 				<Provider>Voo</Provider>
 			</Item>
