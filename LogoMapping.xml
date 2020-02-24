@@ -1852,10 +1852,10 @@
 			<File>VH1 Classic.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Viceland HD">
+			<Item Name="Vice TV">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>Viceland HD.png</File>
+			<File>Vice TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Vier">
