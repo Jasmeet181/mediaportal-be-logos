@@ -342,6 +342,12 @@
 			<File>Caz.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Caz 2">
+				<Provider>Full Name (BE)</Provider>
+			</Item>
+			<File>Caz 2.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CBBC/BBC Three">
 				<Provider>Voo</Provider>
 			</Item>
@@ -1994,12 +2000,6 @@
 				<Provider>Full Name (BE)</Provider>
 			</Item>
 			<File>VTM Kids.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="VTM Kids Jr">
-				<Provider>Full Name (BE)</Provider>
-			</Item>
-			<File>VTM Kids Jr.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="VTM Kids Kanaal Z">
