@@ -2208,7 +2208,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Musiq3">
-				<Provider>TNT (BE)</Provider>">
+				<Provider>TNT (BE)</Provider>
 				<Provider>Voo</Provider>
 			</Item>
 			<File>Musiq3.png</File>
