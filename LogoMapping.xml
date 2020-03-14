@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
+		<!-- 09/08/2020 France 4 and France O closes -->
 	<TV>
 		<Channel>
 			<Item Name="13ème Rue">
@@ -745,7 +746,6 @@
 			<File>France 3.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 09/08/2020 -->
 			<Item Name="France 4">
 				<Provider>Voo</Provider>
 			</Item>
@@ -758,7 +758,6 @@
 			<File>France 5.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 09/08/2020 -->
 			<Item Name="France Ô">
 				<Provider>Voo</Provider>
 			</Item>
