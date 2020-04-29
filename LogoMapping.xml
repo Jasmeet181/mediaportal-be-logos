@@ -1947,7 +1947,7 @@
 			<Item Name="Voosport World 1 HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>VooSport World 1.png</File>
+			<File>Voosport World 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Voosport World 2">
@@ -1956,7 +1956,7 @@
 			<Item Name="Voosport World 2 HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>VooSport World 2.png</File>
+			<File>Voosport World 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Voosport World 3">
@@ -1965,7 +1965,7 @@
 			<Item Name="Voosport World 3 HD">
 				<Provider>Voo</Provider>
 			</Item>
-			<File>VooSport World 3.png</File>
+			<File>Voosport World 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Vox">
